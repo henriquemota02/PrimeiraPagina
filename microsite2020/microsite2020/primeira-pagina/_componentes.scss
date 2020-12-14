@@ -3,3 +3,57 @@
     padding-top: 15px;
     padding-right: 70%;
 }
+
+.txtp1{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 65%;
+}
+
+.txtp2{
+    font-size: 20px;
+    padding-right: 65%;
+}
+.see_how_fy_lo_works{
+    color:$color-accent-cyan ;
+    width: 200px;
+    padding-bottom: 50px;
+}
+.txtp3{
+    color: hsl(170, 45%, 43%);;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.see_how{
+    border-bottom: 1px solid hsl(170, 45%, 43%);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 4px;
+}
+
+.quote{
+    padding-top:8px;
+    font-size: 14px;
+    font-family:$font-body;
+    letter-spacing: 1px;
+    line-height: 1.7;
+}
+
+.avatar-testimonial{
+    border-radius: 100px;
+}
+
+.txtavatar1{
+    height: auto;
+    width: auto;
+    font-family: $font-body;
+    font-size: 14px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.txtavatar2{
+    font-family: $font-body;
+    font-size: 12px;
+}
