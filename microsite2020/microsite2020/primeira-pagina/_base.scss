@@ -10,6 +10,18 @@ $color-neutral-gray: hsl(0, 0%, 75%);
 $font-headings: 'Raleway', sans-serif;
 $font-body: 'Open Sans', sans-serif;
 
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    width: auto;
+    height: auto;
+    background-image: url("/PrimeiraPagina-1/microsite2020/microsite2020/primeira-pagina/images/illustration-1.svg"), url(/PrimeiraPagina-1/microsite2020/microsite2020/primeira-pagina/images/illustration-2.svg), url(/PrimeiraPagina-1/microsite2020/microsite2020/primeira-pagina/images/bg-curve-desktop.svg);
+    background-size: 800px, 650px, cover;
+    background-repeat: no-repeat;
+    background-clip: inherit;
+    background-position-x: 1000px, 1000px, center;
+    background-position-y: 200px, 1200px, 970px;
+  }
 
 .padding_body {
     padding-top: 50px;

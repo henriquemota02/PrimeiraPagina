@@ -1,3 +1,16 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  width: auto;
+  height: auto;
+  background-image: url("/PrimeiraPagina-1/microsite2020/microsite2020/primeira-pagina/images/illustration-1.svg"), url(/PrimeiraPagina-1/microsite2020/microsite2020/primeira-pagina/images/illustration-2.svg), url(/PrimeiraPagina-1/microsite2020/microsite2020/primeira-pagina/images/bg-curve-desktop.svg);
+  background-size: 800px, 650px, cover;
+  background-repeat: no-repeat;
+  background-clip: inherit;
+  background-position-x: 1000px, 1000px, center;
+  background-position-y: 200px, 1200px, 970px;
+}
+
 .padding_body {
   padding-top: 50px;
   padding-left: 100px;
@@ -30,7 +43,7 @@
 
 .barra2 {
   height: 300px;
-  background-color: olor-primary-desaturated;
+  background-color: #585989;
   padding-left: 100px;
 }
 
@@ -101,7 +114,7 @@ input {
   border-radius: 100px;
 }
 
-.txtavatar1 {
+.txtKyle {
   height: auto;
   width: auto;
   font-family: "Open Sans", sans-serif;
@@ -110,7 +123,7 @@ input {
   letter-spacing: 1px;
 }
 
-.txtavatar2 {
+.txtFounder {
   font-family: "Open Sans", sans-serif;
   font-size: 12px;
 }
@@ -175,5 +188,9 @@ input {
 
 .inputbutton {
   padding-right: 100px;
+}
+
+#centralizado {
+  padding-top: 620px;
 }
 /*# sourceMappingURL=main.css.map */
