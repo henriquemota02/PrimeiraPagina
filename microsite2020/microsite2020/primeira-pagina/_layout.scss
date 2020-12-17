@@ -26,3 +26,16 @@
     background-color: olor-primary-desaturated;
     padding-left: 100px;
 }
+
+.footer{
+    height: 350px;
+    background-color: $color-primary-dark;
+    color: $color-neutral-white;
+    font-family: $font-body;
+}
+
+.footer-padding {
+    padding-top: 25px;
+    padding-left: 100px;
+    padding-right: 200px;
+}

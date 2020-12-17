@@ -57,3 +57,49 @@
     font-family: $font-body;
     font-size: 12px;
 }
+
+.text-decoration-none {
+    color: black;
+}
+
+.getstartedforfree {
+    font-family: $font-body;
+    height: 40px;
+    width: 180px;
+    background-color: $color-accent-blue;
+    border-color: $color-accent-blue;
+    color: $color-neutral-white;
+    border-radius: 0.2em;
+    font-size: 13px;
+    border-style: unset;
+    box-shadow: 1px 1px 5px rgb(83, 83, 83);
+}
+
+.getstarted {
+    font-family: $font-body;
+    height: 40px;
+    width: 180px;
+    background-color: $color-accent-blue;
+    border-color: $color-accent-blue;
+    color: $color-neutral-white;
+    border-radius: 0.2em;
+    font-size: 13px;
+    border-style: unset;
+    box-shadow: 1px 1px 5px grey;
+}
+
+.early_access{
+    font-family: $font-headings;
+    font-weight: bolder;
+    color: $color-neutral-white;
+    font-size: 32px;
+}
+
+.early_accessp{
+    padding-right: 57%;
+    font-family: $font-body;
+    color: $color-neutral-white;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
