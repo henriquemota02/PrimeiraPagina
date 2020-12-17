@@ -1,0 +1,179 @@
+.padding_body {
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-bottom: 100px;
+}
+
+.titulo_h1 {
+  padding-top: 140px;
+  padding-right: 55%;
+  font-family: "Raleway", sans-serif;
+  color: #070439;
+  font-size: 45px;
+  font-weight: 900;
+}
+
+.box {
+  width: 400px;
+  height: 250px;
+  background-color: pink;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  border-radius: 5px;
+  border-style: unset;
+  -webkit-box-shadow: 1px 1px 20px white;
+          box-shadow: 1px 1px 20px white;
+  background-color: white;
+}
+
+.barra2 {
+  height: 300px;
+  background-color: olor-primary-desaturated;
+  padding-left: 100px;
+}
+
+.footer {
+  height: 350px;
+  background-color: #070439;
+  color: #f6f6fe;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-padding {
+  padding-top: 25px;
+  padding-left: 100px;
+  padding-right: 200px;
+}
+
+input {
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+
+.txt_button {
+  font-size: 20px;
+  padding-top: 15px;
+  padding-right: 70%;
+}
+
+.txtp1 {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-right: 65%;
+}
+
+.txtp2 {
+  font-size: 20px;
+  padding-right: 65%;
+}
+
+.see_how_fy_lo_works {
+  color: #3c9f8f;
+  width: 200px;
+  padding-bottom: 50px;
+}
+
+.txtp3 {
+  color: #3c9f8f;
+  font-size: 20px;
+  padding-right: 5px;
+}
+
+.see_how {
+  border-bottom: 1px solid #3c9f8f;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 4px;
+}
+
+.quote {
+  padding-top: 8px;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 1px;
+  line-height: 1.7;
+}
+
+.avatar-testimonial {
+  border-radius: 100px;
+}
+
+.txtavatar1 {
+  height: auto;
+  width: auto;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.txtavatar2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+}
+
+.text-decoration-none {
+  color: black;
+}
+
+.getstartedforfree {
+  font-family: "Open Sans", sans-serif;
+  height: 40px;
+  width: 180px;
+  background-color: #3065f8;
+  border-color: #3065f8;
+  color: #f6f6fe;
+  border-radius: 0.2em;
+  font-size: 13px;
+  border-style: unset;
+  -webkit-box-shadow: 1px 1px 5px #535353;
+          box-shadow: 1px 1px 5px #535353;
+}
+
+.getstarted {
+  font-family: "Open Sans", sans-serif;
+  height: 40px;
+  width: 180px;
+  background-color: #3065f8;
+  border-color: #3065f8;
+  color: #f6f6fe;
+  border-radius: 0.2em;
+  font-size: 13px;
+  border-style: unset;
+  -webkit-box-shadow: 1px 1px 5px grey;
+          box-shadow: 1px 1px 5px grey;
+}
+
+.early_access {
+  font-family: "Raleway", sans-serif;
+  font-weight: bolder;
+  color: #f6f6fe;
+  font-size: 32px;
+}
+
+.early_accessp {
+  padding-right: 57%;
+  font-family: "Open Sans", sans-serif;
+  color: #f6f6fe;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.icon-redes-socias {
+  border-radius: 15px;
+  border: 1px solid;
+  padding: 5px;
+}
+
+.logo__branco {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.inputbutton {
+  padding-right: 100px;
+}
+/*# sourceMappingURL=main.css.map */
